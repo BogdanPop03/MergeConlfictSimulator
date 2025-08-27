@@ -1,2 +1,2 @@
 title: App
-color: blue
+color: green
